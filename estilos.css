@@ -9,7 +9,7 @@ body {
 header{
     background: #222;
     color: #fff;
-    padding: 15px;
+    padding: 10px;
 }
 
 nav {
@@ -30,6 +30,9 @@ main {
 h1 {
     font-size: 28px;
     margin-bottom: 10px;
+    text-align: center;
+    color: red;
+    background-color: lightgray;
 }
 
 p {
@@ -39,15 +42,20 @@ p {
 
 footer {
     text-align: center;
-    padding: 10px;
+    padding: 1px;
     background: #222;
     color: #fff;
     position: fixed;
     bottom: 0;
-    width: 40px;
+
 }
 
-.social-icons{
+.xarxes img{
     width: 40px;
     margin: 0 5px;
+    justify-content: center;
+}
+
+div{
+    text-align: center;
 }
