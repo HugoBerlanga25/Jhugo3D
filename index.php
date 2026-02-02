@@ -10,5 +10,3 @@ Me encanta transformar conceptos en objetos reales y ver cómo una idea puede co
 <p>Si tienes una idea en mente, estaré encantado de ayudarte a hacerla realidad.</p>
 
 <h3><a href="disenys.php">¡Mira mis diseños aquí!</a></h3>
-
-
